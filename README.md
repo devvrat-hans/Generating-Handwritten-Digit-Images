@@ -33,6 +33,9 @@ To visualize the model's progress, images are generated and saved all key epochs
 
 An animated **GIF** (`dcgan.gif`) is also created, which combines all these images, allowing you to see the gradual improvement in image quality over time.
 
+![dcgan](https://github.com/user-attachments/assets/f24dcdbd-5fa8-47a2-af10-198309ac7879)
+
+
 ## 📁 Directory Structure
 
 The project contains the following structure:
@@ -65,7 +68,7 @@ For example, to view an image from a specific epoch, navigate to the **Epoch_Ima
 - The image generated after **epoch 100** can be accessed by opening the file `Epoch_Images/image_at_epoch_0100.png`.
 - To view the training progress, open the **dcgan.gif** file. It will show the evolution of the generated images from random noise to realistic digit images over time.
 
-## 🔄 How to Run the Code
+## How to Run the Code
 
 To run this project on your own machine, follow these steps:
 
